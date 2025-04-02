@@ -1,6 +1,8 @@
 # Tp2_conflict-exercise
 Tp2_actividad3
 
+ESTE ES UN CAMBIO EN LA BRANCH MAIN
+
 3) Realizar la siguiente actividad:
 Paso 1: Crear un repositorio en GitHub
 • Ve a GitHub e inicia sesión en tu cuenta.
